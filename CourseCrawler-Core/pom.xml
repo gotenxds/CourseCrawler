@@ -13,6 +13,14 @@
 
     <name>CourseCrawler Core Module</name>
 
+    <dependencies>
+        <dependency>
+            <groupId>edu.uci.ics</groupId>
+            <artifactId>crawler4j</artifactId>
+            <version>3.5</version>
+        </dependency>
+    </dependencies>
+
     <build>
         <pluginManagement>
             <plugins>
